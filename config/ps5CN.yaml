@@ -1,0 +1,11 @@
+---
+refresh_interval: 2 # seconds
+max_price: 4428 # CNY
+urls:
+  - https://item.jd.com/100019378198.html?cu=true&utm_source=www.linkstars.com&utm_medium=tuiguang&utm_campaign=t_1000089893_156_0_184__84f41902dd0daa64&utm_term=5930ee963da94067af8e6593537a9cd7
+  - https://detail.tmall.com/item.htm?id=643380634114&pid=mm_25282911_3455987_109076250467
+  - https://www.vmall.com/product/10086508812746.html?validated=true&themeName=red&loginChannel=26000000&reqClientType=26&lang=zh-cn#cid=10000047&wi=mid:116,fid:103,cid:10000047,wi:266_0_184__2094b3b11f4934dc
+  - https://www.sonystyle.com.cn/products/playstation/ps5/ps5.html
+  - https://www.xiaomiyoupin.com/detail?gid=143326&source=smzdm_514_0_184__dcd8333e7296c106_3.smzdm.514_0_184__dcd8333e7296c106.1628235417289.194463723.3.2108031536572850436516
+  - https://www.sundan.com/product-33480.html?detail=detail 
+...
